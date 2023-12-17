@@ -15,4 +15,5 @@ In this website I explored the django admin page.
 <img width="1436" alt="image" src="https://github.com/Rajkumar-Juvva/Real-Estate-Website/assets/91339881/eddb4867-902b-40f0-adf5-dd44598c8ba2">
 
 **Implemented different page styles with section and explored form styles**
-<img width="1436" alt="image" src="https://github.com/Rajkumar-Juvva/Real-Estate-Website/assets/91339881/5515fe32-85c9-4723-a83d-31894ee012aa">
+<img width="1434" alt="image" src="https://github.com/Rajkumar-Juvva/Real-Estate-Website/assets/91339881/9b1808b0-e76e-42cb-9280-c85a9e9017d7">
+
