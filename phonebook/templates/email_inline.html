@@ -1,0 +1,11 @@
+{% extends "admin/edit_inline/tabular.html" %}
+
+{% block inline_field_sets %}
+    <fieldset class="module aligned">
+        {% for form in inline_admin_formset.forms %}
+            <div class="form-row{% if forloop.last %} empty-form{% endif %}{% if form.errors %} errors{% endif %}">
+                <h1>Hello</h1>
+            </div>
+        {% endfor %}
+    </fieldset>
+{% endblock %}
